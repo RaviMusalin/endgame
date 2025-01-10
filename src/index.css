@@ -28,3 +28,14 @@ header > p {
   max-width: 350px;
   color: #8E8E8E;
 }
+
+.gameStatus {
+  text-align: center;
+  background: #10A95B;
+  width: Fill (352px)px;
+  height: Hug (59px)px;
+  padding: 6px 0px 6px 0px;
+  gap: 0px;
+  border-radius: 4px 0px 0px 0px;
+  opacity: 0px;
+}
